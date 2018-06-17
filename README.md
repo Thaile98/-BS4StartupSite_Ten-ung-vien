@@ -1,6 +1,6 @@
 # Bài tập Trainee Colombo 2018
 
-## Todolist-Thaile
+## BS4-Thaile
 
 Thực hành bootstrap 4 theo yêu cầu
 
