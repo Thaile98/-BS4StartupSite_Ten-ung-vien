@@ -2,14 +2,14 @@
 
 ## Todolist-Thaile
 
-Tạo một phiên bản to do list cơ bản.
+Thực hành bootstrap 4 theo yêu cầu
 
 Thực hiện bởi [Lê Văn Thái](https://github.com/Thaile98)
 
 ## Liên kết
 
-- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=1914531595
-          http://todomvc.com/examples/jquery/#/all
+- Đề bài: https://docs.google.com/spreadsheets/d/1ar80XJA8GLDy6pvL7yOzjp9ykJ1vjxq2jqwMiqxa9s8/edit?ts=5af8fb0d#gid=1573591838
+          https://www.youtube.com/playlist?list=PLUoqTnNH-2XyNhhLuYrrmrmV46jVw6RHF
 
 - Bài làm: 
  - https://thaile98.github.io/jquery/index.html
